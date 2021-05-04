@@ -1,9 +1,20 @@
 
 import java.io.IOException;
+import java.io.*;
+import java.awt.GraphicsEnvironment;
 
 public class Sorts {
 
     public static void main(String[] args) throws IOException {
+        
+        Console console = System.console();
+        if(console == null && !GraphicsEnvironment.isHeadless()){
+            //System.out.println(filename);
+            //trocar o direitorio
+            String filename = "C:\\Users\\leoni\\sorts.jar";
+            //System.out.println(filename);
+            Runtime.getRuntime().exec(new String[]{"cmd","/c","start","cmd","/k","java -jar \""  + filename + "\""});
+        }
 
         int obitos = 10; // Obitos acumulados = 10 coluna da matriz 
         int casos = 7; // Casos acumulados = 7 coluna da matriz
