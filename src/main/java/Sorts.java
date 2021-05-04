@@ -139,6 +139,8 @@ public class Sorts {
         heap.abrirMedioCaso(cidades);
         heap.abrirPiorCaso_Cidades();
 
+        System.out.println("\n\n PASTA 'todos_os_arquivos_sorts' CRIADA NO DISCO C:\\ COM TODOS OS ARQUIVOS ORDENADOS !!!!");
+
     }
 
 }
