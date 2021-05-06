@@ -7,14 +7,13 @@ https://drive.google.com/drive/u/0/folders/10QurKLUjhNVbYya-CXB0mYx6W0z387se
 2. Extraia a pasta "planilhas_csv_usadas" no disco local C;
 	OBS: o programa acessa os arquivos pelo caminho "C:\planilhas_csv_usadas\arquivo.csv", ou seja, é imprescindivel que a pasta seja extraída neste diretório;
 
-3. Faça o download do arquivo sorts.jar no link abaixo:
+3. Faça o download da pasta "sorts", onde contém o arquivo sorts.jar no link abaixo:
 https://drive.google.com/drive/folders/1aOR5z_GqB3UnBRzNv8VEGevj72yI4aLd?usp=sharing
 
-4. Crie uma pasta no disco local C com o seguinte nome: sorts;
-
-5. Extraia ou mova o sorts.jar para a sua pasta sorts da seguinte maneira: "C:\sorts\sorts.jar"
-
-6. Rode o arquivo sorts.jar;
+4. Extraia a pasta "sorts" para o disco local C;
+	OBS: certifique que o arquivo se encontra em C:\sorts\sorts.jar
+	
+5. Rode o arquivo sorts.jar;
 
 *************************************************************************************************************
 					Funcionamento
