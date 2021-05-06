@@ -1,7 +1,7 @@
 # ProjetoLEDA
 Finalizado!
 
-1. Faça o download das planilhas no link abaixo:
+1. Faça o download da pasta "planilhas_csv_usadas" no link abaixo:
 https://drive.google.com/drive/u/0/folders/10QurKLUjhNVbYya-CXB0mYx6W0z387se
 
 2. Extraia a pasta "planilhas_csv_usadas" no disco local C;
